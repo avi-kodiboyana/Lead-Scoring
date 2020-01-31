@@ -33,5 +33,5 @@
 - All three models had **accuracy rate close to 65%**
 - **Scoring:** Both Logistic Regession and Decision Tree models generalized well on the test dataset, with random forest slightly underperforming on the test dataset
 - **Feature Importance that are common across all the models:**
- - MQLs whose landing page is b76ef37428e6799c421989521c0e5077 or 22c29808c4f815213303f8933030604c 
- - MQLs who came through Organic and Paid Search 
+  - MQLs whose landing page is b76ef37428e6799c421989521c0e5077 or 22c29808c4f815213303f8933030604c 
+  - MQLs who came through Organic and Paid Search 
