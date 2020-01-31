@@ -27,3 +27,11 @@
 
 
 ## Question: Build a model to predict the top MQLs for the Sales Development Representatives (SDRs) to follow up on
+
+- Built Logistic Regression, Decision Tree and Random Forest models to predict the probability a MQL will close the deal
+- Used Grid Search to select the best hyperparameters
+- All three models had **accuracy rate close to 65%**
+- **Scoring:** Both Logistic Regession and Decision Tree models generalized well on the test dataset, with random forest slightly underperforming on the test dataset
+- **Feature Importance that are common across all the models:**
+ - MQLs whose landing page is b76ef37428e6799c421989521c0e5077 or 22c29808c4f815213303f8933030604c 
+ - MQLs who came through Organic and Paid Search 
