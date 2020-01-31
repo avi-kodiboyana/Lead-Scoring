@@ -3,7 +3,7 @@
 ## Lead Scoring Model for the public OList Marketing Funnel dataset from Kaggle - https://www.kaggle.com/olistbr/marketing-funnel-olist
 
 - The dataset has information of 8k Marketing Qualified Leads (MQLs) that requested contact between Jun. 1st 2017 and Jun 1st 2018.
-- This data has been further enhanced using the Seller data from OList (https://www.kaggle.com/olistbr/brazilian-ecommerce)
+- This data has been further enhanced using the Seller data from OList - https://www.kaggle.com/olistbr/brazilian-ecommerce
  
 ## Question: What insights can be determined by the data (Summarized in the Tableau Workbook)
 
