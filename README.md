@@ -5,7 +5,7 @@
 - The dataset has information of 8k Marketing Qualified Leads (MQLs) that requested contact between Jun. 1st 2017 and Jun 1st 2018.
 - This data has been further enhanced using the Seller data from OList - https://www.kaggle.com/olistbr/brazilian-ecommerce
  
-## Question: What insights can be determined by the data (Summarized in the Tableau Workbook)
+## Question: What insights can be determined by the data (Also, summarized in the Tableau Workbook)
 
 - Dataset has 8000 unique leads, out of which 842 MQLs have closed the deal. Conversion Rate - 10.5%
 
@@ -23,7 +23,7 @@
 
 ### Contact Day of Week
 - Most of the leads are signing up to be contacted during the **weekdays**
-- **88%** of the leads who ended up converting have requested to be contacted during weekdays
+- **88%** of the leads who end up converting have requested to be contacted during weekdays
 
 
 ## Question: Build a model to predict the top MQLs for the Sales Development Representatives (SDRs) to follow up on
